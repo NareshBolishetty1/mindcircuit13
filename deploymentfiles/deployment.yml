@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: devopshubg333/minicircuit:44
+        image: devopshubg333/minicircuit:45
         ports:
         - containerPort: 8080
 
